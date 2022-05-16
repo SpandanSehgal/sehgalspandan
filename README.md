@@ -6,7 +6,7 @@
 I am Spandan, a student of grade IX I live in India.
 I'm 14 years old.
 
-I'm a self-learning software developer student and I am a huge fan of @CodeWithHarry
+I'm a self-learning software developer student and I am a huge fan of [@CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 It's been 2 years since I started my journey in software development and I'm currently learning Python.
 
 I have learnt HTML, CSS, JS and some other basic things in my free time.
