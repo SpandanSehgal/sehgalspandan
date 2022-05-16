@@ -3,10 +3,14 @@
 
 
 ## 🚀 About Me
-I'm study in class 9th and I live in India. I want to be a programmer
-at **Google**.
+I am Spandan, a student of grade IX I live in India.
+I'm 14 years old.
 
+I'm a self-learning software developer student and I am a huge fan of @CodeWithHarry
+It's been 2 years since I started my journey in software development and I'm currently learning Python.
 
+I have learnt HTML, CSS, JS and some other basic things in my free time.
+And my dream is, to work as a software developer at **Google**.
 
 
 👩‍💻 I'm currently working on my new web app
