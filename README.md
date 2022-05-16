@@ -26,16 +26,25 @@ And my dream is, to work as a software developer at **Google**.
 
 
 ## 🛠 Skills
-**Javascript, 
-HTML, 
-CSS,
-Tailwind Css, 
-Bootstrapp, 
-Windows 10, 
-Chrome, 
-Qbasic, 
-Visual Basic,
-Visual Studio Code **
+**Javascript,**
+
+**HTML,**
+
+**CSS,**
+
+**Tailwind Css,**
+
+**Bootstrapp,**
+
+**Windows 10,**
+
+**Chrome,**
+
+**Qbasic,**
+
+**Visual Basic,**
+
+**Visual Studio Code**
 
 
 ## 🔗 Links
