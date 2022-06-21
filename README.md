@@ -1,3 +1,4 @@
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
 
 # Hi, I'm Spandan! 👋
 
@@ -12,7 +13,7 @@ It's been 2 years since I started my journey in software development and I'm cur
 I have learnt HTML, CSS, JS and some other basic things in my free time.
 And my dream is, to work as a software developer at **Google**.
 
-
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 👩‍💻 I'm currently working on my new web app
 
 🧠 I'm currently learning Python
@@ -52,7 +53,14 @@ And my dream is, to work as a software developer at **Google**.
 [Passwordo](https://passwordo.vercel.app)
 
 [Portfolio](https://spandyportfolio.vercel.app/)
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spandyboss)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=spandyboss)](https://github.com/spandyboss/github-profile-trophy)  
 [![Hits](https://hits.sh/github.com/spandyboss.svg?label=Views)](https://hits.sh/github.com/spandyboss/)
