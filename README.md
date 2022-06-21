@@ -53,14 +53,7 @@ And my dream is, to work as a software developer at **Google**.
 [Passwordo](https://passwordo.vercel.app)
 
 [Portfolio](https://spandyportfolio.vercel.app/)
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spandyboss)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=spandyboss)](https://github.com/spandyboss/github-profile-trophy)  
 [![Hits](https://hits.sh/github.com/spandyboss.svg?label=Views)](https://hits.sh/github.com/spandyboss/)
