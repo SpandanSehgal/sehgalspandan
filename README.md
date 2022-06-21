@@ -24,7 +24,6 @@ And my dream is, to work as a software developer at **Google**.
 📫 How to reach me : spandansehgal@gmail.com
 
 
-
 ## 🛠 Skills
 **Javascript,**
 
@@ -54,4 +53,6 @@ And my dream is, to work as a software developer at **Google**.
 
 [Portfolio](https://spandyportfolio.vercel.app/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spandyboss)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=spandyboss)](https://github.com/spandyboss/github-profile-trophy)  
 [![Hits](https://hits.sh/github.com/spandyboss.svg?label=Views)](https://hits.sh/github.com/spandyboss/)
