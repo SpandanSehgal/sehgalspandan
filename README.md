@@ -53,3 +53,5 @@ And my dream is, to work as a software developer at **Google**.
 [Passwordo](https://passwordo.vercel.app)
 
 [Portfolio](https://spandyportfolio.vercel.app/)
+
+[![Hits](https://hits.sh/github.com/spandyboss.svg?label=Views)](https://hits.sh/github.com/spandyboss/)
