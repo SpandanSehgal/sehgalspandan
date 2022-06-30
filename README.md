@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add your blog here so everyone can see it.](https://dev.to/spandyboss/add-your-blog-here-so-everyone-can-see-it-2h8n)
 - [Give me feedback for my blog](https://dev.to/spandyboss/give-me-feedback-for-my-blog-22bb)
 - [Tell me your experience with python](https://dev.to/spandyboss/tell-me-your-experience-with-python-4dak)
 - [I created my portfolio](https://dev.to/spandyboss/hooray-i-created-my-portfolio-8la)
-- [Python Exercise - Q2](https://dev.to/spandyboss/python-exercise-q2-419h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
