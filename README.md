@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which CSS Framework should I use ?](https://dev.to/spandyboss/which-css-framework-should-i-use--3544)
 - [Add your blog here so everyone can see it.](https://dev.to/spandyboss/add-your-blog-here-so-everyone-can-see-it-2h8n)
 - [Give me feedback for my blog](https://dev.to/spandyboss/give-me-feedback-for-my-blog-22bb)
 - [Tell me your experience with python](https://dev.to/spandyboss/tell-me-your-experience-with-python-4dak)
-- [I created my portfolio](https://dev.to/spandyboss/hooray-i-created-my-portfolio-8la)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
