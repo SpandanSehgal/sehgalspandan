@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazing app for music listeners](https://dev.to/spandyboss/amazing-app-for-music-listeners-3omc)
 - [Hey there! I&#39;m back](https://dev.to/spandyboss/hey-there-im-back-1pg7)
 - [Which CSS Framework should I use ?](https://dev.to/spandyboss/which-css-framework-should-i-use--3544)
 - [Add your blog here so everyone can see it.](https://dev.to/spandyboss/add-your-blog-here-so-everyone-can-see-it-2h8n)
-- [Give me feedback for my blog](https://dev.to/spandyboss/give-me-feedback-for-my-blog-22bb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
