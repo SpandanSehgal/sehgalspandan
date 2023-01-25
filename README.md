@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Chat GPT vs Human](https://dev.to/spandyboss/chat-gpt-vs-human-4og9)
-- [Amazing app for music listeners](https://dev.to/spandyboss/amazing-app-for-music-listeners-3omc)
-- [Hey there! I&#39;m back](https://dev.to/spandyboss/hey-there-im-back-1pg7)
-- [Which CSS Framework should I use ?](https://dev.to/spandyboss/which-css-framework-should-i-use--3544)
+- [Chat GPT vs Human](https://dev.to/spandan/chat-gpt-vs-human-4og9)
+- [Amazing app for music listeners](https://dev.to/spandan/amazing-app-for-music-listeners-3omc)
+- [Hey there! I&#39;m back](https://dev.to/spandan/hey-there-im-back-1pg7)
+- [Which CSS Framework should I use ?](https://dev.to/spandan/which-css-framework-should-i-use--3544)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
