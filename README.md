@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio Update #2](https://dev.to/spandan/portfolio-update-2-ihk)
 - [Portfolio Update](https://dev.to/spandan/portfolio-update-5759)
 - [Chat GPT vs Human](https://dev.to/spandan/chat-gpt-vs-human-4og9)
 - [Amazing app for music listeners](https://dev.to/spandan/amazing-app-for-music-listeners-3omc)
-- [Hey there! I&#39;m back](https://dev.to/spandan/hey-there-im-back-1pg7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
