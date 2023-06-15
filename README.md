@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on my Blog [Tech With Spandy](https://techwithspandy.com)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Nextjs**
 
-- 👯 I’m looking to collaborate with others [Tech With Spandy](https://github.com/SpandyBoss/TechWithSpandy.git)
+- 👯 I’m looking to collaborate with others 
 
-- 👨‍💻 All of my projects are available at [https://spandybossportfolio.vercel.app/#](https://spandybossportfolio.vercel.app/#)
+- 👨‍💻 All of my projects are available at [https://span41n.vercel.app/#](https://span41n.vercel.app/)
 
-- 📝 I regularly write articles on [https://techwithspandy.tk](https://techwithspandy.tk)
+
 
 - 💬 Ask me about **HTML, CSS, JS, Tailwind CSS, Bootstrap, Windows 10, Visual Studio Code, GitHub, Git.**
 
