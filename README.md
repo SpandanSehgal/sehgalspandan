@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandyboss" alt="spandyboss" /></a> </p>
 
-- 🔭 I’m currently working on my Blog [Tech With Spandy](https://techwithspandy.com)
+- 🔭 I’m currently working on my [Portfolio](https://span41n.vercel.app)
 
 - 🌱 I’m currently learning **Python and Nextjs**
 
 - 👯 I’m looking to collaborate with others 
 
 - 👨‍💻 All of my projects are available at [https://span41n.vercel.app/#](https://span41n.vercel.app/)
-
-
 
 - 💬 Ask me about **HTML, CSS, JS, Tailwind CSS, Bootstrap, Windows 10, Visual Studio Code, GitHub, Git.**
 
