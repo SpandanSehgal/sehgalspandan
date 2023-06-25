@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [I updated my portfolio website](https://dev.to/spandan/i-updated-my-portfolio-website-49d9)
+- [How I Revamped My Portfolio Website](https://dev.to/spandan/how-i-revamped-my-portfolio-website-5573)
 - [Portfolio Update 2](https://dev.to/spandan/portfolio-update-2-ihk)
 - [Portfolio Update](https://dev.to/spandan/portfolio-update-5759)
 - [Chat GPT vs Human](https://dev.to/spandan/chat-gpt-vs-human-4og9)
