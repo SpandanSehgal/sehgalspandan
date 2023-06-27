@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Must-Know Websites](https://dev.to/spandan/8-must-know-websites-46j)
 - [How I Revamped My Portfolio Website](https://dev.to/spandan/how-i-revamped-my-portfolio-website-5573)
 - [Portfolio Update 2](https://dev.to/spandan/portfolio-update-2-ihk)
 - [Portfolio Update](https://dev.to/spandan/portfolio-update-5759)
-- [Chat GPT vs Human](https://dev.to/spandan/chat-gpt-vs-human-4og9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
