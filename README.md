@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Toolbox: Everything You Need in One Place](https://dev.to/spandan/the-ai-toolbox-everything-you-need-in-one-place-4b7j)
 - [Hello Again!](https://dev.to/spandan/hello-again-15oe)
 - [8 Must-Know Websites](https://dev.to/spandan/8-must-know-websites-46j)
 - [How I Revamped My Portfolio Website](https://dev.to/spandan/how-i-revamped-my-portfolio-website-5573)
-- [Portfolio Update 2](https://dev.to/spandan/portfolio-update-2-ihk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
