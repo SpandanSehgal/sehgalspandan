@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stuck with ChatGPT prompts? No worries!](https://dev.to/spandan/get-more-out-of-chatgpt-with-these-clever-prompts-f1)
 - [The AI Toolbox: Everything You Need in One Place](https://dev.to/spandan/the-ai-toolbox-everything-you-need-in-one-place-4b7j)
 - [Hello Again!](https://dev.to/spandan/hello-again-15oe)
 - [8 Must-Know Websites](https://dev.to/spandan/8-must-know-websites-46j)
-- [How I Revamped My Portfolio Website](https://dev.to/spandan/how-i-revamped-my-portfolio-website-5573)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
