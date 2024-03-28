@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn JavaScript for Free: A Beginner&#39;s Guide to Getting Started with JavaScript](https://dev.to/spandan/learn-javascript-for-free-a-beginners-guide-to-getting-started-with-javascript-2f61)
 - [Thanks giving](https://dev.to/spandan/thanks-giving-28bj)
 - [Stuck with ChatGPT? No worries!](https://dev.to/spandan/get-more-out-of-chatgpt-with-these-clever-prompts-f1)
 - [The AI Toolbox: Everything You Need in One Place](https://dev.to/spandan/the-ai-toolbox-everything-you-need-in-one-place-4b7j)
-- [Hello Again!](https://dev.to/spandan/hello-again-15oe)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
