@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
 - [Supercharge Your Workflow with These Top Tools](https://dev.to/spandan/supercharge-your-workflow-with-these-top-tools-5he0)
 - [Learn JavaScript for Free: A Beginner&#39;s Guide to Getting Started with JavaScript](https://dev.to/spandan/learn-javascript-for-free-a-beginners-guide-to-getting-started-with-javascript-2f61)
 - [Thanks giving](https://dev.to/spandan/thanks-giving-28bj)
-- [Stuck with ChatGPT? No worries!](https://dev.to/spandan/get-more-out-of-chatgpt-with-these-clever-prompts-f1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
