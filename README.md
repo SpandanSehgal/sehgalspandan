@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity Playground: A hidden gem](https://dev.to/spandan/perplexity-playground-a-hidden-gem-2ok8)
 - [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
 - [Supercharge Your Workflow with These Top Tools](https://dev.to/spandan/supercharge-your-workflow-with-these-top-tools-5he0)
 - [Learn JavaScript for Free: A Beginner&#39;s Guide to Getting Started with JavaScript](https://dev.to/spandan/learn-javascript-for-free-a-beginners-guide-to-getting-started-with-javascript-2f61)
-- [Thanks giving](https://dev.to/spandan/thanks-giving-28bj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
