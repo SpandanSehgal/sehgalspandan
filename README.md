@@ -20,7 +20,7 @@ _I'm Spandan Sehgal, a student in 11th grade who's exploring this amazing and ne
 
 - 👨‍💻 All of my projects are available at [https://span41n.vercel.app](https://span41n.vercel.app)
 
-- 📝 I regularly write articles on [my portfolio](https://span41n.vercel.app/blog), [medium.com](https://medium.com/@spandansehgal) and [hashnode](https://hashnode.com/@sehgalspandan)
+- 📝 I regularly write articles on [my portfolio](https://span41n.vercel.app/blog), [dev.to](https://dev.to/sehgalspandan), [medium.com](https://medium.com/@spandansehgal) and [hashnode](https://hashnode.com/@sehgalspandan)
 
 - 📫 How to reach me **spandansehgal@gmail.com**
 
