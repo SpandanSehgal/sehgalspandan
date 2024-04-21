@@ -26,10 +26,10 @@ _I'm Spandan Sehgal, a student in 11th grade who's exploring this amazing and ne
 
 ### My Recent Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity Playground: A hidden gem](https://dev.to/spandan/perplexity-playground-a-hidden-gem-2ok8)
-- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
-- [Supercharge Your Workflow with These Top Tools](https://dev.to/spandan/supercharge-your-workflow-with-these-top-tools-5he0)
-- [Learn JavaScript for Free: A Beginner&#39;s Guide to Getting Started with JavaScript](https://dev.to/spandan/learn-javascript-for-free-a-beginners-guide-to-getting-started-with-javascript-2f61)
+- [Perplexity Playground: A hidden gem](https://dev.to/sehgalspandan/perplexity-playground-a-hidden-gem-2ok8)
+- [How can I improve my posts?](https://dev.to/sehgalspandan/how-can-i-improve-my-posts-55h5)
+- [Supercharge Your Workflow with These Top Tools](https://dev.to/sehgalspandan/supercharge-your-workflow-with-these-top-tools-5he0)
+- [Learn JavaScript for Free: A Beginner&#39;s Guide to Getting Started with JavaScript](https://dev.to/sehgalspandan/learn-javascript-for-free-a-beginners-guide-to-getting-started-with-javascript-2f61)
 <!-- BLOG-POST-LIST:END -->
 
 
